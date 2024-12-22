@@ -1,0 +1,6 @@
+name: OldPiglins
+version: '1.0'
+main: me.lukiiy.spdrns.OldPiglins
+api-version: '1.18'
+authors: [ Lukiiy ]
+description: Removes piglin brutes and rewrites trades to match old loottable
